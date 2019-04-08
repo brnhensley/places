@@ -1,36 +1,27 @@
 # _Beep Boop_
 
-#### _Intro to Programming, Week 3 Independent Project, 04.05.2019_
+#### _Intro to Programming, Week 4 Objects_
 
-#### By _Ashley J. Ancheta_
+#### By _Ashley J. Ancheta and Brian Hensley_
 
 ## Description
-_This application will allow the user to submit a number. Based on the values from 0 to the number that they will input, there will be elements that will replace some of the values due to various conditions. Concepts such as arrays and loops from Week 3 of introduction to programming were applied to build this program._
+_This application will allow the user click a location and will display information about that. This was made to practice creating objects._
 
 ## Specs
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| When the user clicks a location it will display info about that location | Click Sri Lanka | See map |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| When the user clicks a location it will display info about that location | Click Sri Lanka | Sigiriya, Temple of the Sacred Tooth, Adam's Peak |
 
 
 ## Setup/Installation Requirements
 
-* Go to this link to view the page on GitHub "https://ajancheta.github.io/beep-boop". You may also clone this repository "https://github.com/ajancheta/beep-boop.git"
+* Clone this repository "https://github.com/ajancheta/places.git"
 * Open the repository in a preferred text editor such as Atom.
 * Open the file and view in the web browser of preference.
 
 ## Known Bugs
 
 _There are no known bugs._
-
-## Commit History
-
-_Due to complication with git earlier today, below are screen shots of what I was receiving on my terminal as well as commits that are on shown on my GitHub.<br>_
-<img src="img/img1.png" width="180" height="120" alt="Screenshot1">
-<img src="img/img2.png" width="180" height="50" alt="Screenshot2">
 
 ## Support and contact details
 
@@ -44,4 +35,4 @@ _This webpage was written in HTML. Style was created using Bootstrap and a custo
 
 *This software is licensed under MIT license.*
 
-Copyright (c) 2019 **_Ashley J. Ancheta_**
+Copyright (c) 2019 **_Ashley J. Ancheta and Brian Hensley_**
