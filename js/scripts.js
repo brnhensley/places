@@ -8,13 +8,15 @@ function Place (location, landmarks, year, food) {
 
 Place.prototype.displayInfo = function () {
   this.Place == 1;
-  return "<li>" + this.location + "</li><ul>" + function(display) + "</ul><li>" + this.year + "</li><ul><li>" + this.food[0] + "</li><li>" + this.food[1] + "</li><li>" + this.food[2] + "</li></ul>";
+  return "<li>" + this.location + "</li><ul><li>" + this.landmarks[0] + "</li><li>" + this.landmarks[1] + "</li><li>" + this.landmarks[2] + "</li></ul><li>" + this.year + "</li><ul><li>" + this.food[0] + "</li><li>" + this.food[1] + "</li><li>" + this.food[2] + "</li></ul>";
 }
+
+// This is a good idea, but how to make it work?
 
 // Place.prototype.displayInfo = function (display) {
 //   for (var i=0; i < this.landmarks.length; i++) {
 //     if (this.landmarks[i]) {
-//       return "<li>" + lnadmark1 + </li>
+//
 //     }
 //   }
 // }

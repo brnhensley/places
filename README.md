@@ -15,7 +15,7 @@ _This application will allow the user click a location and will display informat
 
 ## Setup/Installation Requirements
 
-* Clone this repository "https://github.com/ajancheta/places.git"
+* Clone this repository "https://github.com/ajancheta/places.git" or "https://github.com/brnhensley/places"
 * Open the repository in a preferred text editor such as Atom.
 * Open the file and view in the web browser of preference.
 
